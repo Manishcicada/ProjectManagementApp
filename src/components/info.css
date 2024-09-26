@@ -1,0 +1,36 @@
+
+.info{
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  margin-top: 120px;
+  margin-left: 400px;
+  width: 900px;
+  justify-content: center;
+  align-items: center;
+}
+
+.info img{
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.info h1{
+  font-size: larger;
+  font-weight: 500;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.info p{
+  color: gray;
+  margin-bottom: 40px;
+}
+
+.info button{
+  background-color: black;
+  color: gray;
+  padding: 7px;
+  border-radius: 5px;
+}

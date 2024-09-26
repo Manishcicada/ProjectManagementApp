@@ -1,0 +1,40 @@
+.input-class-project{
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  margin-top: 120px;
+  margin-left: 400px;
+  width: 900px;
+  justify-content: left;
+  /* background-color: blue; */
+}
+.input-class-project input{
+  height: 35px;
+  margin-bottom: 20px;
+  background-color: lightgray;
+}
+.input-class-project label{
+  margin-bottom: 5px;
+}
+
+.button-class{
+  display: flex;
+  justify-content: right;
+  /* background-color: orange; */
+}
+
+.save{
+  display: inline;
+  background-color: black;
+  color: white;
+  width: 70px;
+  height: 35px;
+  border-radius: 7px;
+}
+
+.cancel{
+  display: inline;
+  color: black;
+  border-radius: 7px;
+  margin-right: 10px;
+}
